@@ -1,41 +1,8 @@
-### CS 5630 / CS 6630
 
-The 2015 Visualization website is built with [Jekyll](http://jekyllrb.com).
+### Datascience Course
 
-#### Ubuntu Prerequisites
+This repository holds all versions of the Datascience Course website as shown on the main domain.
 
-```ShellSession
-$ sudo apt-get install ruby-dev
-```
+The 2016 subfolder of this repository is automatically created based on the [2016-datasciencecourse-website](https://github.com/datasciencecourse/2016-datasciencecourse-website) repository containing jekyll code. Do not edit this page directly!**
 
-#### Setup
-
-Requires Jekyll 2.4.0 or later.
-
-```ShellSession
-$ gem install jekyll
-```
-
-#### Generate and/or Serve Site
-
-```ShellSession
-$ jekyll serve --watch
-```
-
-#### View Site
-
-```ShellSession
-$ open http://0.0.0.0:4000/
-```
-
-### Liquid Syntax
-
-https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
-
-### Windows Installation Instructions
-
-http://jekyll-windows.juthilo.com/1-ruby-and-devkit/
-
-### Deployment
-
-just push your changes. An automatic build will compile it using jekyll 2.4.0 and push it to the public repository  
+The index.html file automatically redirects to the latest year.
