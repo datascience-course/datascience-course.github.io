@@ -14,9 +14,8 @@ body {
   font-weight: 300;
   background-color: #fdfdfd; }
 
-img {
-  float: right;
-  padding-left: 20px; }
+.full-width-img {
+  width: 100%; }
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
@@ -111,12 +110,13 @@ table th, table td {
 .site-header {
   border-top: 5px solid #333;
   border-bottom: 1px solid #e8e8e8;
-  min-height: 56px;
+  min-height: 50px;
   background-color: white; }
 
 .site-title-all {
-  width: 50%;
-  float: left; }
+  width: 60%;
+  float: left;
+  height: 100%; }
 
 .site-title,
 .site-title:hover,
@@ -124,10 +124,11 @@ table th, table td {
   font-family: "Baumans", cursive;
   font-weight: 500;
   color: #333;
-  font-size: 50px;
+  font-size: 40px;
   letter-spacing: -1px;
-  line-height: 50px;
-  text-decoration: none; }
+  line-height: 70px;
+  text-decoration: none;
+  text-align: center; }
 
 .site-subtitle {
   font-family: "Baumans", cursive;
@@ -142,7 +143,7 @@ table th, table td {
 
 .site-nav {
   float: left;
-  line-height: 56px; }
+  line-height: 20px; }
 
 .site-nav .menu-icon {
   display: none; }
@@ -150,7 +151,9 @@ table th, table td {
 .site-nav .page-link {
   margin-right: 20px;
   color: #727272;
-  letter-spacing: -.5px; }
+  letter-spacing: -.5px;
+  font-weight: 400;
+  font-size: 1.2em; }
 
 /* Site footer */
 .site-footer {
@@ -610,7 +613,25 @@ table th, table td {
   .site-footer .column.footer-col-3 {
     width: auto;
     float: none;
-    clear: both; } }
+    clear: both; }
+
+  .site-title-all {
+    width: 100%;
+    height: 100%; }
+
+  .site-title,
+  .site-title:hover,
+  .site-title:visited {
+    font-size: 25px;
+    line-height: 30px; }
+
+  #utahLogo {
+    float: none;
+    padding: 5px 0px 10px 0px; }
+
+  #utahLogoImg {
+    height: 35px;
+    padding-left: 0px; } }
 @media screen and (max-width: 600px) {
   .wrap {
     padding: 0 12px; }
