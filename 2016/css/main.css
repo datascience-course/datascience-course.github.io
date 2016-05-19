@@ -17,6 +17,9 @@ body {
 .full-width-img {
   width: 100%; }
 
+img {
+  float: right; }
+
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
   font-weight: 400;
@@ -624,6 +627,9 @@ table th, table td {
   .site-title:visited {
     font-size: 25px;
     line-height: 30px; }
+
+  img {
+    float: none; }
 
   #utahLogo {
     float: none;
