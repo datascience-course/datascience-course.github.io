@@ -70,7 +70,7 @@
         
         
         
-        <a class="page-link" href="/2016/project/"></a>
+        <a class="page-link" href="/2016/project/">Project</a>
         
         
         
@@ -102,8 +102,8 @@
     <description>Introduction to Data Science Class at the University of Utah</description>
     <link>http://datasciencecourse.net/2016/</link>
     <atom:link href="http://datasciencecourse.net/2016/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 07 Aug 2016 01:14:34 +0200</pubDate>
-    <lastBuildDate>Sun, 07 Aug 2016 01:14:34 +0200</lastBuildDate>
+    <pubDate>Tue, 09 Aug 2016 22:37:40 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Aug 2016 22:37:40 +0200</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
   </channel>
