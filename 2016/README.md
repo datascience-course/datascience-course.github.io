@@ -1,6 +1,6 @@
 ### Introduction to Data Science Course
 
-This website is built with [Jekyll](http://jekyllrb.com).
+This website is built with [Jekyll](http://jekyllrb.com). 
 
 #### Ubuntu Prerequisites
 
