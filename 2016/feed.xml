@@ -81,7 +81,7 @@
         
         
         
-        <a class="page-link" href="/2016/fame/"></a>
+        <a class="page-link" href="/2016/fame/">Fame</a>
         
         
 
@@ -102,8 +102,8 @@
     <description>Introduction to Data Science Class at the University of Utah</description>
     <link>http://datasciencecourse.net/2016/</link>
     <atom:link href="http://datasciencecourse.net/2016/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 14 Nov 2016 01:27:24 +0100</pubDate>
-    <lastBuildDate>Mon, 14 Nov 2016 01:27:24 +0100</lastBuildDate>
+    <pubDate>Mon, 26 Dec 2016 15:52:56 +0100</pubDate>
+    <lastBuildDate>Mon, 26 Dec 2016 15:52:56 +0100</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
   </channel>
